@@ -1,0 +1,130 @@
+-6 -13 -13 
+-13 -6 -13 
+-13 -13 -6 
+
+
+
+2 1 1 
+1 2 1 
+1 1 2 
+
+3 2 2 
+2 3 2 
+2 2 3 
+
+
+
+there are a error any were
+perfect!!
+
+
+the mat1 :
+3 2 2 
+2 3 2 
+2 2 3 
+the diag of mat1 :
+3 3 3 
+
+the mat2 :
+-6 -13 -13 
+-13 100 -13 
+-13 -13 -6 
+the diag of mat2 :
+-6 100 -6 
+
+the mat3 :
+2 1 1 
+1 2 1 
+1 1 2 
+the diag of mat3 :
+2 2 2 
+
+empty container
+the amount of the container is : 0 , and the size is : 1
+
+We Adding ..
+the amount of the container is : 1 , and the size is : 1
+
+We Adding ..
+the amount of the container is : 2 , and the size is : 2
+
+We Remove ..
+the amount of the container is : 1 , and the size is : 1
+
+We Remove ..
+the amount of the container is : 0 , and the size is : 1
+
+
+
+the amount of the container is : 8 , and the size is : 8
+There are 8 matrices in the container. The matrices:
+3 2 2 
+2 3 2 
+2 2 3 
+
+-6 -13 -13 
+-13 100 -13 
+-13 -13 -6 
+
+2 1 1 
+1 2 1 
+1 1 2 
+
+19 13 13 
+13 19 13 
+13 13 19 
+
+1 1 1 
+1 1 1 
+1 1 1 
+
+3 2 2 
+2 3 2 
+2 2 3 
+
+-6 -13 -13 
+-13 100 -13 
+-13 -13 -6 
+
+2 1 1 
+1 2 1 
+1 1 2 
+
+
+the amount of the container is : 4 , and the size is : 4
+There are 4 matrices in the container. The matrices:
+3 2 2 
+2 3 2 
+2 2 3 
+
+-6 -13 -13 
+-13 100 -13 
+-13 -13 -6 
+
+2 1 1 
+1 2 1 
+1 1 2 
+
+13 0 0 
+0 119 0 
+0 0 13 
+
+
+
+
+BONUS 5 POINTS 
+matrix 1 : 
+1 2 3 
+4 2 1 
+7 1 2 
+ * 
+matrix 2 : 
+1 5 6 
+3 2 1 
+4 4 1 
+
+equal to :
+19 21 11 
+14 28 27 
+18 45 45 
+
